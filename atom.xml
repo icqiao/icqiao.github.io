@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ic</title>
+  
+  
+  <link href="http://icqiao.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://icqiao.github.io/"/>
+  <updated>2024-06-04T14:25:59.016Z</updated>
+  <id>http://icqiao.github.io/</id>
+  
+  <author>
+    <name>rbq</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个长翅膀的老头</title>
+    <link href="http://icqiao.github.io/posts/63534.html"/>
+    <id>http://icqiao.github.io/posts/63534.html</id>
+    <published>2024-06-03T10:34:41.000Z</published>
+    <updated>2024-06-04T14:25:59.016Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个长翅膀的老头<br>加西亚·马尔克斯<br>雨下到第三天，佩拉约两口子在屋里打死了成堆的螃蟹。佩拉约只好穿过被雨水淹没的院子把它们扔到海里去</p>]]></content>
+    
+    
+    <summary type="html">一篇测试文章</summary>
+    
+    
+    
+    
+    <category term="test" scheme="http://icqiao.github.io/tags/test/"/>
+    
+  </entry>
+  
+</feed>
