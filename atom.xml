@@ -6,7 +6,7 @@
   <link href="http://icqiao.github.io/atom.xml" rel="self"/>
   
   <link href="http://icqiao.github.io/"/>
-  <updated>2024-06-05T13:16:24.634Z</updated>
+  <updated>2024-06-05T15:23:13.003Z</updated>
   <id>http://icqiao.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>一个长翅膀的老头</title>
+    <title>项目计划</title>
     <link href="http://icqiao.github.io/posts/63534.html"/>
     <id>http://icqiao.github.io/posts/63534.html</id>
     <published>2024-06-03T10:34:41.000Z</published>
-    <updated>2024-06-05T13:16:24.634Z</updated>
+    <updated>2024-06-05T15:23:13.003Z</updated>
     
-    <content type="html"><![CDATA[<p>一个长翅膀的老头<br>加西亚·马尔克斯<br>雨下到第三天，佩拉约两口子在屋里打死了成堆的螃蟹。佩拉约只好穿过被雨水淹没的院子把它们扔到海里去</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="📋-项目计划：-添加项目"><a href="#📋-项目计划：-添加项目" class="headerlink" title="📋 项目计划： 添加项目"></a>📋 项目计划： 添加项目</h1><table><thead><tr><th><strong>说明</strong></th><th>您有什么想法？</th></tr></thead><tbody><tr><td><strong>状态</strong></td><td>提前 🌱</td></tr><tr><td><strong>团队</strong></td><td>身份: @某人<br>身份: @某人</td></tr><tr><td><strong>相关</strong></td><td>- <a href="document1">相关文档１</a> <br>- <a href="bilibili.com">插入相关文档</a></td></tr></tbody></table><h2 id="时间线"><a href="#时间线" class="headerlink" title="时间线"></a>时间线</h2><table><thead><tr><th>标题</th><th align="center">日期(Deadline)</th><th>已指派给</th><th>说明</th></tr></thead><tbody><tr><td></td><td align="center">03.01-03.12</td><td></td><td></td></tr></tbody></table><h2 id="详细信息"><a href="#详细信息" class="headerlink" title="详细信息"></a>详细信息</h2><p>使用您点击“返回”时显示的工具栏来添加图片、视频等</p><h2 id="待办事项"><a href="#待办事项" class="headerlink" title="待办事项"></a>待办事项</h2><ul><li><input disabled="" type="checkbox"> 我们将会完成这项任务 @某人</li><li><input disabled="" type="checkbox"> 我们今天就来解决这项任务 @某人</li></ul>]]></content>
     
     
     <summary type="html">一篇测试文章</summary>
